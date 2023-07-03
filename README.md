@@ -9,3 +9,6 @@ EDINet consists of a depth attentive feature extractor (DAFE) to capture feature
 ![RGBDresult](https://github.com/sudiptabhuyan1/EDINet/assets/95354449/e275e89b-1e8a-4aea-955f-86bbf0ed0b9b)
 * Qualitative comparison with recent SOTA 
 ![Capture](https://github.com/sudiptabhuyan1/EDINet/assets/95354449/681ca355-ff20-456d-9b97-de6b0ee18fcb)
+# Data and code will be available in due course...
+# Contact
+Sudipta Bhuyan: sudiptabhuyan1[at]gmail[dot]com
